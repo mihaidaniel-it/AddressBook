@@ -57,7 +57,7 @@ To run the project locally:
 ```
 git clone https://github.com/mihaidaniel-it/AddressBook.git
 
-cd AddressBook
+cd src
 
 javac Main.java
 
